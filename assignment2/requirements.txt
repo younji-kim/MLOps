@@ -1,5 +1,4 @@
 h2o==3.46.0.7
-mljar_supervised==1.1.17
 numpy==2.2.5
 pandas==2.2.3
 scikit_learn==1.6.1
